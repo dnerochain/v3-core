@@ -16,11 +16,11 @@ export default {
       url: `https://ropsten.infura.io/v3/${process.env.INFURA_API_KEY}`,
     },
   },
-//  etherscan: {
-    // Your API key for Etherscan
-    // Obtain one at https://etherscan.io/
-//    apiKey: process.env.ETHERSCAN_API_KEY,
-//  },
+  //  etherscan: {
+  // Your API key for Etherscan
+  // Obtain one at https://etherscan.io/
+  //    apiKey: process.env.ETHERSCAN_API_KEY,
+  //  },
   solidity: {
     version: '0.8.19',
     settings: {
